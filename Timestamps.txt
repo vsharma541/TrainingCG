@@ -1,0 +1,1 @@
+1. Setup git and git repository in local machine - 15:30 to 16:30
